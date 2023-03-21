@@ -34,5 +34,3 @@ I created a paaswordConfig.js file that stored code for authenticating the user,
 
 The server.js had Post requests for registering a new user and logging in. If the user is authenticated they get rerouted to the dashboard. If user is not logged in reroute them to the login.
 
-
-I had to install the following dependencies for my code to work
